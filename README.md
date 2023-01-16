@@ -6,7 +6,8 @@
 
 - [x]  Basic concepts and evaluation
 - [x]  Decision Trees
-- [ ]  Bayes Learning
+- [x]  Bayesian Learning
+- [ ]  Probabilistic models for classification
 - [ ]  Linear Models
 - [ ]  Support Vector Machines
 - [ ]  Kernels
