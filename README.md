@@ -9,7 +9,7 @@
 - [x]  Bayesian Learning
 - [x]  Probabilistic models for classification
 - [x]  Linear Models for classification
-- [ ]  Support Vector Machines
+- [ ]  Linear Models for regression
 - [ ]  Kernels
 - [ ]  Multiple classifiers
 
