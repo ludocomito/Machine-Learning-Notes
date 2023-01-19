@@ -8,7 +8,7 @@
 - [x]  Decision Trees
 - [x]  Bayesian Learning
 - [x]  Probabilistic models for classification
-- [ ]  Linear Models for classification
+- [x]  Linear Models for classification
 - [ ]  Support Vector Machines
 - [ ]  Kernels
 - [ ]  Multiple classifiers
