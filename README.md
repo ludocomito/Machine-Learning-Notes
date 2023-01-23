@@ -9,13 +9,13 @@
 - [x]  Bayesian Learning
 - [x]  Probabilistic models for classification
 - [x]  Linear Models for classification
-- [x]  Linear Models for regression
 - [x]  Kernels
 - [ ]  Multiple classifiers
 
 ### Regression
 
-- [ ]  Linear and logistic regression
+- [x]  Linear Models for regression
+- [x]  Linear and logistic regression
 - [ ]  Instance based (K-NN)
 - [ ]  Perceptron
 - [ ]  Neural networks
