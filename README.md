@@ -17,8 +17,8 @@
 - [x]  Linear Models for regression
 - [x]  Linear and logistic regression
 - [ ]  Instance based (K-NN)
-- [ ]  Perceptron
-- [ ]  Neural networks
+- [X]  Perceptron
+- [X]  Neural networks
 - [ ]  Deep neural networks (CNN)
 
 ### Unsupervised learning
