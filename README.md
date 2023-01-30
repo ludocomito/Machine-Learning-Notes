@@ -19,7 +19,7 @@
 - [x]  Instance based (K-NN)
 - [X]  Perceptron
 - [X]  Neural networks
-- [ ]  Deep neural networks (CNN)
+- [x]  Deep neural networks (CNN)
 
 ### Unsupervised learning
 
