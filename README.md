@@ -10,7 +10,7 @@
 - [x]  Probabilistic models for classification
 - [x]  Linear Models for classification
 - [x]  Kernels
-- [ ]  Multiple classifiers
+- [x]  Multiple classifiers
 
 ### Regression
 
