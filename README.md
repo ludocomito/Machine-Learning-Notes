@@ -23,8 +23,8 @@
 
 ### Unsupervised learning
 
-- [ ]  Clustering (k-Means)
-- [ ]  Latent variables (EM)
+- [x]  Clustering (k-Means)
+- [x]  Latent variables (EM)
 
 ### Reinforcement learning
 
