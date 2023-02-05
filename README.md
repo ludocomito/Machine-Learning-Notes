@@ -25,6 +25,7 @@
 
 - [x]  Clustering (k-Means)
 - [x]  Latent variables (EM)
+- [x]  Dimensionality reduction (Autoencoders, GANs)
 
 ### Reinforcement learning
 
