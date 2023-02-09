@@ -1,3 +1,6 @@
+## Machine learning notes
+
+### Syllabus
 1. [Introduction to machine learning](https://github.com/ludocomito/Machine-Learning-Notes/blob/main/Single%20chapters/1%20-%20Machine%20Learning%20Introduction.pdf)
 2. [Performance evaluation](https://github.com/ludocomito/Machine-Learning-Notes/blob/main/Single%20chapters/2%20-%20Performance%20evaluation.pdf)
 3. [Decision trees](https://github.com/ludocomito/Machine-Learning-Notes/blob/main/Single%20chapters/3%20-%20Decision%20trees.pdf)
