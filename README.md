@@ -29,5 +29,5 @@
 
 ### Reinforcement learning
 
-- [ ]  MDP
-- [ ]  Q-learning
+- [X]  MDP and POMDP
+- [X]  Q-learning
